@@ -1,4 +1,5 @@
 import { getConfigValue } from '../../scripts/configs.js';
+
 export default async function decorate(block) {
   const readConfig = await getConfigValue('get-value');
   const [quoteWrapper] = block.children;
