@@ -4,7 +4,6 @@
     "/content/aem-xwalk-vansh/configuration:/.helix/config.json",
     "/content/aem-xwalk-vansh/metadata:/metadata.json",
     "/content/aem-xwalk-vansh/metadata:/redirects.json"
-    
   ],
   "includes": [
     "/content/aem-xwalk-vansh/"
